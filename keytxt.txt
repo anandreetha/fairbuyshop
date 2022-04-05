@@ -1,0 +1,27 @@
+ Success
+Please keep this information for your records:
+
+Magento Admin Info:
+
+Username:
+admin
+Email:
+anand.webdeveloper@gmail.com
+Password:
+******
+Your Store Address:
+http://localhost/fairbuyshop/
+Magento Admin Address:
+http://localhost/fairbuyshop/store/
+Be sure to bookmark your unique URL and record it offline.
+Encryption Key:
+e6ac0b353ac549a34642711f096d096a
+Database Info:
+
+Database Name:
+fairbuyshop
+Username:
+root
+Password:
+******
+For security, remove write permissions from these directories: 'C:/wamp64/www/fairbuyshop/app/etc'
